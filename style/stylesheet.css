@@ -1,0 +1,10 @@
+.container{
+    background-color: blue;
+    display:flex;
+}
+
+.container div{
+    background-color: lightgray;
+    margin:5px;
+    padding:5px;
+}

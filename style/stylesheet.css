@@ -1,6 +1,7 @@
 .container{
     background-color: blue;
     display:flex;
+    justify-content: center;
 }
 
 .container div{
